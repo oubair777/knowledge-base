@@ -43,9 +43,6 @@ To demonstrate the ability to convert Figma design into a scalable React UI with
 
 ## 📸 Screenshots
 
-
-![Home](./Screenshot%20(2459).png)
-![Drawer](./Screenshot%20(2460).png)
-
-
+![Home](./home.png)
+![Drawer](./drawer.png)
 
