@@ -41,6 +41,11 @@ This project is a pixel-accurate implementation of a Knowledge Base dashboard UI
 #  Objective
 To demonstrate the ability to convert Figma design into a scalable React UI with clean architecture and basic state management.
 
+## 📸 Screenshots
+
+
+![Home](./Screenshot%20(2459).png)
+![Drawer](./Screenshot%20(2460).png)
 
 
 
